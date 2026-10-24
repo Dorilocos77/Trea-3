@@ -1,0 +1,33 @@
+/* PASO 4: */
+body p{
+	color: green;
+}
+
+body{
+	background-color: black;
+	color: white !important; /* PASO 2:  */
+	font-family: Verdana;
+}
+
+h1 {
+	font-family: Arial;
+}
+
+a {
+	color: inherit;
+}
+
+div{
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+/* PASO 1:*/
+body{
+	color: red;
+}
+
+/* PASO 3: */
+p{
+	color: blue;
+}
